@@ -1,1 +1,23 @@
 
+{
+  "blogs": [
+    {
+      "title": "Title A",
+      "body": "content A",
+      "author": "author A",
+      "id": 1
+    },
+    {
+      "title": "Title B",
+      "body": "content B",
+      "author": "author B",
+      "id": 2
+    },
+    {
+      "title": "Title C",
+      "body": "content C",
+      "author": "author C",
+      "id": 3
+    }
+  ]
+}
